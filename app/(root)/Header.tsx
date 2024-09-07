@@ -139,7 +139,7 @@ const Header = () => {
             ) : (
               <Link
                 href="/login"
-                className="border p-1 rounded-lg hover:bg-slate-100"
+                className="border p-2 mr-4 rounded-lg bg-slate-200 hover:bg-blue-100 hover:text-blue-800"
               >
                 Sign In
               </Link>
