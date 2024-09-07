@@ -26,8 +26,23 @@ const Login = () => {
 
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-gray-300">
-      <div className="bg-gray-800 p-10 rounded-lg shadow-xl w-96">
-        <h1 className="text-white text-2xl mb-5">LogIn</h1>
+      <img
+        src="/icon.svg"
+        alt="Background"
+        className="absolute h-full w-full  my-50"
+        style={{
+          opacity: 0.2, // Adjust transparency as needed
+        }}
+      />
+      <div className="absolute top-1/2 left-20 transform  flex flex-col  text-blue-900">
+        <h1 className="text-6xl font-bold a">Saftey</h1>
+      </div>
+      <div className="absolute top-1/2 right-20 flex flex-col  text-blue-900">
+        <h1 className="text-6xl font-bold mt-4">Sphere</h1>
+      </div>
+
+      <div className="absolute bg-gray-800 p-10 rounded-lg shadow-xl w-96 opacity-90 top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
+        <h1 className="text-white text-2xl mb-5">Sign-In</h1>
         <input
           type="email"
           placeholder="Email"
@@ -48,11 +63,11 @@ const Login = () => {
         >
           LogIn
         </button>
-      </div>
-      <div>
-        <Link href="/sign-up" className="text-white">
-          Don`t have account sign-up here
-        </Link>
+        <div>
+          <Link href="/sign-up" className=" text-slate-300  hover:text-white">
+            Don`t have account sign-up here
+          </Link>
+        </div>
       </div>
     </div>
   );
