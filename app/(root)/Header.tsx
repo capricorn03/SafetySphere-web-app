@@ -66,9 +66,9 @@ const Header = () => {
   const navigationLinks: NavigationLink[] = [
     { label: 'Home', route: '/' },
     { label: 'Features', route: '/fetures' },
-    { label: 'About Us', route: '/about' },
     { label: 'Download-App', route: '/mobile-app' },
     { label: 'Contact', route: '/contact' },
+    { label: 'About Us', route: '/about' },
   ];
 
   return (
