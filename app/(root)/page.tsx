@@ -20,31 +20,31 @@ const HomePage = () => {
         </div>
       </div>
       <div className="bg-white rounded-lg shadow-lg overflow-hidden transform transition-transform duration-500 hover:scale-95 hover:shadow-2xl p-4 sm:p-6 m-auto" style={{ marginBottom: "10px", marginTop: "10px", overflow: "hidden", margin: "10px" }}>
-        <h2 className="text-xl font-bold text-blue-600 mb-4 text-center">
+        <h2 className="text-2xl font-bold text-blue-600 mb-4 text-center">
           Join the movement
         </h2>
-        <p className="text-base mb-4 text-center">
+        <p className="text-lg leading-6 mb-4 text-center">
           Together we can build a world where every woman feels safe and empowered.
         </p>
-        <p className="text-base mb-4 text-center">
+        <p className="text-lg leading-6 mb-4 text-center">
           By registering as a User, You can access Valuable features and connect with a supportive community.
         </p>
-        <p className="text-base mb-4 text-center">
+        <p className="text-lg leading-6 mb-4 text-center">
           As a Community Helper you can lend a hand and assist others in need.
         </p>
-        <p className="text-base mb-4 text-center">
+        <p className="text-lg leading-6 mb-4 text-center">
           Or, register as a Combined User to stay safe and make your Sommunity Safer.
         </p>
       </div>
 
       <div className="bg-white rounded-lg shadow-lg overflow-hidden transform transition-transform duration-500 hover:scale-95 hover:shadow-2xl p-4 sm:p-6 m-auto" style={{ marginBottom: "20px", marginTop: "10px", overflow: "hidden", margin: "10px" }}>
-        <h2 className="text-xl font-bold text-blue-600 mb-4 text-center">
+        <h2 className="text-2xl font-bold text-blue-600 mb-4 text-center">
           Become a Community Champion
         </h2>
-        <p className="text-base mb-4 text-center">
+        <p className="text-lg leading-6 mb-4 text-center">
           Support and uplift those around you by offering assistance and resources.
         </p>
-        <p className="text-base mb-4 text-center">
+        <p className="text-lg leading-6 mb-4 text-center">
           As a Community Champion, you'll play a vital role in creating a safer and more supportive environment for everyone.
         </p>
       </div>
