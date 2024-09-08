@@ -30,7 +30,7 @@ const HelpPage = () => {
               Register as a Community Helper
             </h2>
             <p className="text-lg mb-4">
-              Help protect women in your locality. You'll receive instant alerts
+              Help protect women in your locality. You`ll receive instant alerts
               if any woman in your neighborhood needs assistance, allowing you
               to be a lifeline and make a real difference.
             </p>
@@ -43,8 +43,8 @@ const HelpPage = () => {
             </h2>
             <p className="text-lg mb-4">
               Stay safe while keeping others safe. Make a difference in your
-              community! You'll receive instant alerts if any women are in
-              trouble in your locality, and you'll also have access to safety
+              community! Youll receive instant alerts if any women are in
+              trouble in your locality, and you`ll also have access to safety
               features like gesture SOS and automatic location sharing linked
               with public CCTV cameras.
             </p>

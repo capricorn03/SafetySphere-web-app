@@ -13,7 +13,7 @@ const ContactUsPage = () => {
         {/* Contact Info */}
         <div className="bg-white rounded-lg shadow-lg p-8 text-center mb-12">
           <p className="text-lg mb-4 text-gray-700">
-            We'd love to hear from you! Get in touch with us at: 
+            We`d love to hear from you! Get in touch with us at: 
             <a href="mailto:contact@example.com" className="text-blue-600 hover:underline">
               contact@example.com
             </a>

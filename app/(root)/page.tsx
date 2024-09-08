@@ -45,7 +45,7 @@ const HomePage = () => {
           Support and uplift those around you by offering assistance and resources.
         </p>
         <p className="text-lg leading-6 mb-4 text-center">
-          As a Community Champion, you'll play a vital role in creating a safer and more supportive environment for everyone.
+          As a Community Champion, you`ll play a vital role in creating a safer and more supportive environment for everyone.
         </p>
       </div>
 

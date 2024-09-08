@@ -54,7 +54,7 @@ const AppDownloadPage = () => {
               <li>Download the app from the App Store or Google Play Store.</li>
               <li>Create an account or log in if you already have one.</li>
               <li>
-                Explore the app's features, such as SOS alerts, location tracking, and community connections.
+                Explore the app`s features, such as SOS alerts, location tracking, and community connections.
               </li>
               <li>Customize your safety settings and emergency contacts.</li>
               <li>
