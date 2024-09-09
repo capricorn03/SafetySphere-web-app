@@ -6,7 +6,7 @@ const HelpPage = () => {
     <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-r from-blue-50 to-gray-100">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-screen-xl">
         <div className="text-center mb-12">
-          <h1 className="text-4xl font-bold text-blue-600">
+          <h1 className="text-4xl font-bold text-blue-600"> 
             Be a Part of the Community
           </h1>
           <p className="text-lg text-gray-700 mt-4">
